@@ -7,8 +7,8 @@ Requirements (tested on Debian 8.1):
 
 ```
 Lua 5.1.x (included on Debian Stable)
-IUP 3.10.1 (http://webserver2.tecgraf.puc-rio.br/iup/ run ./install and ./config_lua_module)
-LibCD 5.8(.2) (http://webserver2.tecgraf.puc-rio.br/cd/ same as above)
+IUP 3.10.1 ([http://webserver2.tecgraf.puc-rio.br/iup/](http://webserver2.tecgraf.puc-rio.br/iup/) run ./install and ./config_lua_module)
+LibCD 5.8(.2) ([http://webserver2.tecgraf.puc-rio.br/cd/](http://webserver2.tecgraf.puc-rio.br/cd/) same as above)
 zlib1g-dev (apt-get install zlib1g-dev)
 luarocks (apt-get install luarocks)
 sqlite3 (apt-get install sqlite3)
