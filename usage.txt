@@ -1,0 +1,7 @@
+usage: lua clicam.lua [INPUT] [OUTPUT]
+
+[OUTPUT] must contain a number.
+Non-numeric characters are ignored.
+Extensions are ignored, output file will be [NUMBER].eia.
+
+eg. lua clicam.lua circle_mill.lua 2200.eia
