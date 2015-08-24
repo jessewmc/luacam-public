@@ -5,12 +5,12 @@ INSTALLATION NOTES:
 
 Requirements (tested on Debian 8.1):
 
+[http://webserver2.tecgraf.puc-rio.br/iup/](http://webserver2.tecgraf.puc-rio.br/iup/)
+[http://webserver2.tecgraf.puc-rio.br/cd/](http://webserver2.tecgraf.puc-rio.br/cd/)
 ```
 Lua 5.1.x (included on Debian Stable)
 IUP 3.10.1 (run ./install and ./config_lua_module)
-```
-[http://webserver2.tecgraf.puc-rio.br/iup/](http://webserver2.tecgraf.puc-rio.br/iup/)
-LibCD 5.8(.2) ([http://webserver2.tecgraf.puc-rio.br/cd/](http://webserver2.tecgraf.puc-rio.br/cd/) same as above)
+LibCD 5.8(.2) (same as above)
 zlib1g-dev (apt-get install zlib1g-dev)
 luarocks (apt-get install luarocks)
 sqlite3 (apt-get install sqlite3)
